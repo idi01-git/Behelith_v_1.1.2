@@ -41,11 +41,8 @@ Just open a problem and start coding.
 
 # 🎬 Preview
 
-<p align="center">
-  <img src="assets/editor-demo.gif" width="100%">
-</p>
+https://github.com/user-attachments/assets/389c785b-a6e0-4ffd-8d0d-436396920375
 
-> Replace the GIF above with your own demo recording.
 
 ---
 
